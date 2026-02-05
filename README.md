@@ -1,3 +1,5 @@
+This is a self-study project before laboratory assignment.
+
 # BCI EEG Signal Analysis (Practice)
 
 ## Overview
